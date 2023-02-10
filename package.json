@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "coding project",
+  "main": "dec1st.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "advent"
+  ],
+  "author": "Lewis",
+  "license": "ISC"
+}
