@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-fs.readFile('/Users/mr.robot/Digitalcrafts/projects/advent-of-code/elfcalorie.txt', 'utf8',(err,data)=>{
+fs.readFile('/Users/lewri/projects/Advent-of-code/elfcalorie.txt', 'utf8',(err,data)=>{
     if (err){
         console.error(err);
         return;
